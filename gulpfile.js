@@ -54,7 +54,7 @@
         serverUrl: '',
         version: '',
         browserSync: {
-            port: 13091,
+            port: 13041,
             open: false,
             server: {
                 baseDir: PATH.build.DIR_ROOT
